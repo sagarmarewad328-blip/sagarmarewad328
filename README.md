@@ -21,12 +21,12 @@ Welcome to my GitHub profile! I'm learning to code, exploring new technologies, 
 
 ## 🚀 My Projects
 
-- *My First Project* — JanSetu AI  [View project](https://github.com/piyush-devx10/HackersX-JanSetu-AI)
+- *My First Project* — JanSetu AI  [View project](https://github.com/sagar-devx10/HackersX-JanSetu-AI)
 
 ## 📫 Connect With Me
 
-- 💻 GitHub: [@piyush-devx](https://github.com/piyush-devx10)
-- 🔗 LinkedIn: [Piyush Mandhare](https://www.linkedin.com/in/piyush-mandhare-8192b234a/)
+- 💻 GitHub: [@sagar-devx](https://github.com/sagar-devx10)
+- 🔗 LinkedIn: [sagar marewad](https://www.linkedin.com/in/sagar-marewad-8192b234a/)
 
 ---
 ⭐ Thanks for visiting my profile! Keep learning and keep building. 🚀
