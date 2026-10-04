@@ -25,7 +25,7 @@ https://github.com/sagarmarewad328-blip/sagarmarewad328/edit/main/README.md
 
 ## 📫 Connect With Me
 
-- 💻 GitHub: [@piyush-devx](https://github.com/piyush-devx10)
+- 💻 GitHub: [https://github.com/sagarmarewad328-blip]
 - 🔗 LinkedIn: [Piyush Mandhare](https://www.linkedin.com/in/piyush-mandhare-8192b234a/)
 
 ---
