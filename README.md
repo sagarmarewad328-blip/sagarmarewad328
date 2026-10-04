@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm sagar marewad
+# Hi there! 👋 I'm Sagar Marewad
 
 ### 🎓 Engineering Student | Aspiring Developer
 
