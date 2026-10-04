@@ -16,7 +16,7 @@ Welcome to my GitHub profile! I'm learning to code, exploring new technologies, 
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-https://github.com/sagarmarewad328-blip/sagarmarewad328/edit/main/README.md
+![Git Hub](https://github.com/sagarmarewad328-blip/sagarmarewad328/edit/main/README.md)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 ## 🚀 My Projects
